@@ -1,5 +1,5 @@
 # Aski-s-Temporal-Tangle
-a short but fun dungeon crawler created for the DCJAM2023
+### A short dungeon crawler created for the  [Dungeon Crawler Game Jam 2023](https://itch.io/jam/dcjam2023) hosted by [dungeoncrawlers.org](https://dungeoncrawlers.org)
+### The game can be found and downloaded on Mac/Windows/Linux on [itch.io](https://turtledave501.itch.io/askis-temporal-tangle)
+### We are aware of all the bugs and will release a fixed version as soon as the judging period of the jam ends, you can find the current CHANGELOG for the version [here]()
 
-
-Link: https://turtledave501.itch.io/askis-temporal-tangle
